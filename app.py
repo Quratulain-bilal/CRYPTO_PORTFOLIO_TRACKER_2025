@@ -384,7 +384,7 @@ if st.session_state.logged_in:
 
             # Add Image for Future Prediction
             st.image(
-                "https://img.freepik.com/free-photo/people-tablet-with-bar-graph_1134-473.jpg?t=st=1740021379~exp=1740024979~hmac=ae0e8801abd9eddb7f8dc67dcea525bf403767f4a0d34fb8abd01255bf0ad3c8&w=996",
+                "https://img.freepik.com/premium-photo/businessman-employs-data-analysis-tools-informed-stock-trading-cryptocurrency-decisions-vert_896558-43193.jpg?w=360",
                 caption="Future Trends",
                 use_container_width=True
             )
