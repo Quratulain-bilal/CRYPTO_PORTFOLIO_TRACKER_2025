@@ -366,7 +366,7 @@ if st.session_state.logged_in:
             
             # Add Image for Backtesting
             st.image(
-                "https://img.freepik.com/free-vector/red-blue-abstract-style-big-data-background_23-2147927456.jpg?t=st=1740111259~exp=1740114859~hmac=16e88ec68a51ed8c98ac410320d42770611363d667d4d988d35a5ee1a473f0a6&w=740",
+                "https://img.freepik.com/free-photo/trading-stock-stock-market-business-graph-trading-investment-broker-stock-exchange-market_169016-66447.jpg?t=st=1740111364~exp=1740114964~hmac=84af0a062788f2052177ce3b80a3d9649e471f653fc3b6dc183607211d9a635f&w=900",
                 caption="Backtesting Visualization",
                 use_container_width=True
             
