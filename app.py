@@ -363,6 +363,13 @@ if st.session_state.logged_in:
             # Line Chart for Historical Data
             fig_backtest = px.line(historical_data, x="Date", y=["Price", "SMA_7"], title=f"{selected_crypto.capitalize()} Price with SMA")
             st.plotly_chart(fig_backtest)
+            
+            # Add Image for Backtesting
+            st.image(
+                "https://img.freepik.com/free-photo/businessman-hand-touching-stock-market-graph-on-virtual-screen-financial-trading-investment-concept_53876-129748.jpg?w=1380",
+                caption="Backtesting Visualization",
+                use_container_width=True
+            
 
             )
         st.markdown('</div>', unsafe_allow_html=True)
