@@ -252,8 +252,7 @@ else:
 if st.session_state.logged_in:
     st.title(f"📊 {translate('CRYPTO_PORTFOLIO_TRACKER')}")
     st.write("Track your investments across cryptocurrencies!")
-    st.write("Track your investments across cryptocurrencies!")
-     # Initialize session state for portfolio
+# Initialize session state for portfolio
     if 'portfolio' not in st.session_state or st.session_state.portfolio.empty:
         st.session_state.portfolio = pd.DataFrame(columns=["Asset", "Quantity", "Purchase Price", "Current Price"])
 
