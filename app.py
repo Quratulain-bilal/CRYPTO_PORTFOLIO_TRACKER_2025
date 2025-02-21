@@ -203,7 +203,7 @@ def predict_future_price(historical_data):
         return None
 
 # ==================== Configure the Streamlit App ====================
-st.set_page_config(page_title="Crypto Portfolio Tracker", layout="wide")
+st.set_page_config(page_title="Crypto_Portfolio_Tracker", layout="wide")
 set_custom_css()
 
 # Sidebar for Login/Logout and Settings
