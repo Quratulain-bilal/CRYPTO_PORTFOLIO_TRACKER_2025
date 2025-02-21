@@ -250,7 +250,7 @@ else:
 
 # ==================== Main App (After Login) ====================
 if st.session_state.logged_in:
-    st.title(f"📊 {translate('portfolio')}")
+    st.title(f"📊 {translate('CRYPTO_PORTFOLIO-TRACKER')}")
     st.write("Track your investments across cryptocurrencies!")
 
     # Initialize session state for portfolio
