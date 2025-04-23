@@ -81,11 +81,11 @@ crypto-portfolio-tracker/
 💬 Multi-Language Support
 Use the sidebar to switch between languages. App supports:
 
-English (en)
+English 
 
-Urdu (ur)
+Urdu 
 
-Dutch (nl)
+Dutch 
 
 📌 Note
 This app is built for educational/demo purposes.
