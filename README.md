@@ -1,5 +1,5 @@
 📈 Crypto Portfolio Tracker
-A multi-language crypto portfolio tracking web app built with Streamlit, allowing users to:
+A multi-language crypto portfolio tracking web app built with Streamlit allowing users to:
 
 Track cryptocurrency investments
 
