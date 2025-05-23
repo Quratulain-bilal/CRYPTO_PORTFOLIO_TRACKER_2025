@@ -7,7 +7,7 @@ import hashlib
 from sklearn.linear_model import LinearRegression
 import numpy as np
 
-# ================ Multi-Language Support =================
+# ============== Multi-Language Support =================
 LANGUAGES = {
     "en": {  # English
         "login": "Login",
