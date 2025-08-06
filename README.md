@@ -47,10 +47,6 @@ NewsAPI, CoinGecko API
 
 🧰 Installation
 Clone the repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/crypto-portfolio-tracker.git
 cd crypto-portfolio-tracker
 Install dependencies:
