@@ -52,22 +52,16 @@ cd crypto-portfolio-tracker
 Install dependencies:
 
 bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run the app:
 
-bash
-Copy
-Edit
+
 streamlit run app.py
 🔑 API Keys
 Replace api_key in the fetch_news() function with your own key from NewsAPI.org.
 
 📁 Folder Structure
-bash
-Copy
-Edit
 crypto-portfolio-tracker/
 │
 ├── app.py               # Main Streamlit app
