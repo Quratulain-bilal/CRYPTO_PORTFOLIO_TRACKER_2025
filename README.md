@@ -51,7 +51,7 @@ git clone https://github.com/yourusername/crypto-portfolio-tracker.git
 cd crypto-portfolio-tracker
 Install dependencies:
 
-bash
+
 
 pip install -r requirements.txt
 Run the app:
