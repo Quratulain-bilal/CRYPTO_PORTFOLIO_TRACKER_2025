@@ -78,7 +78,6 @@ Urdu
 Dutch 
 
 📌 Note
-This app is built for educational/demo purposes.
 
 Prices are fetched using the free CoinGecko API (60s cache).
 
